@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🔥 Hey! This is Arthur AJ. W
 
-<!--
-**AhJindeg/AhJindeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.laobi.icu/badge?page_id=kangyana)
+![](https://img.shields.io/github/stars/AhJindeg?color=fefb7b&logo=Undertale)
+![](https://img.shields.io/github/followers/AhJindeg?color=27da6b&logo=Handshake)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on FE.
+- 🌱 I’m currently learning English.
+- 🤔 I’m looking for help with a job.
+- 💬 Ask me about Javascript/Typescript/Vue/Weapp.
+- 👨‍💻 Blog: [AhJindeg's Blog（https://AhJindeg.github.io）](https://AhJindeg.github.io/).
+- 📫 Email: `AhJindeg@gmail.com`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=1042780737252231&limit=3)](https://juejin.cn/user/1042780737252231/posts) -->
